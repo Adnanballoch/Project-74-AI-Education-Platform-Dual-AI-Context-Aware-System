@@ -1,7 +1,7 @@
-# Project 74: AI Education Platform — Dual-AI Context-Aware System
+# Project 74: AI Education Platform: Dual-AI Context-Aware System
 
 **Category:** EdTech
-**Part of:** AutoMatrixLab — 100+ AI and automation apps
+**Part of:** AutoMatrixLab
 
 ## Overview
 
@@ -13,9 +13,11 @@ Flask, Azure AI, Python, Multi-Modal Learning
 
 ## Demo
 
+[![AI Education Platform: Dual-AI Context-Aware System](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-74-ai-education-platform-dual-ai-context-aware-system.jpg)](https://automatrixlab.com/projects/project-74-ai-education-platform-dual-ai-context-aware-system/)
+
 🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/74.mp4
 
-🌐 **See it on the site:** https://automatrixlab.com/#applications
+🌐 **See it on the site:** https://automatrixlab.com/projects/project-74-ai-education-platform-dual-ai-context-aware-system/
 
 ## Access Full Source Code & Live Demo
 
@@ -25,7 +27,7 @@ This repository shows the project overview, tech stack, and demo link. For full 
 
 ## About AutoMatrixLab
 
-AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
+AutoMatrixLab is a research, education, and industry platform of AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open.
 
 🌐 Website: https://automatrixlab.com
 📧 Contact: adnan.balloch@outlook.com
